@@ -1,0 +1,1 @@
+This is a text document that I am creating as a beginner lesson on git.
